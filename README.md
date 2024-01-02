@@ -1,3 +1,4 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 <h1 align="center"> 👋 Blockchain Developer & Smart Contract Security Auditor<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;%20Smart%20Contract%20Security%20Auditor;5%2B%5years%20of%20coding%20experience%20in%20Blockchain;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
