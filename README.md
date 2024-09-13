@@ -8,7 +8,16 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 
-A certified blockchain Developer & Smart Contract Security Auditor with 5 years of experience in the field of blockchain development and less than a year in smart contract security auditing. I hold a professional Master's degree in cloud computing networks.I’m passion for building Blockchain applications with would positivly impact people life. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.
+---
+
+**Eman Herawy** is a blockchain developer and smart contract security auditor with over six years of hands-on experience across various blockchain platforms. Eman began her journey in the blockchain space in November 2017, specializing in smart contract development and later transitioning into security auditing, where she has been actively contributing since last year. Her expertise spans multiple programming languages and frameworks, including Solidity and Rust, which she has utilized to win **nine** international Web3 hackathons. Three of these wins focused specifically on developing blockchain security tools.
+
+Eman's passion for blockchain security is highlighted by her recent achievements in public audit contests, such as CodeHawks, where she identified three high-severity vulnerabilities and one low-severity issue, all of which were validated. She has also earned the **Chainlink Developer Expert Yellow Belt** and the **Macro Smart Contract Security Fellowship Badge**, adding to her credibility as a rising security expert.
+
+In addition to her technical skills, Eman is a **TechWomen Emerging Tech Leader (2022)** and a **Devcon 5 Scholar Alumni**. She is also a community builder, having founded **Arabs in Blockchain**, a group focused on empowering Arabic speakers in the blockchain space by fostering knowledge sharing and inclusivity. Additionally, she co-founded **NoonDAO**, the first Arab women-led DAO, dedicated to supporting and empowering Arab women in blockchain technology.
+
+Eman’s ongoing goal is to expand her auditing skills, particularly for Rust-based smart contracts, as she continues to play a pivotal role in advancing security and fostering diversity within the blockchain ecosystem.
+
 <br>
 
 ###
@@ -21,16 +30,15 @@ A certified blockchain Developer & Smart Contract Security Auditor with 5 years 
 
 - EVM
 - Solidity
+- fuzzing
 - foundry
 - hardhat
-- Truffle
-- Waffle
+- rust
+- ink
+- sway
 - IPFS
 - Filecoin
-- web3
-- p2p
 - Reactjs
-- Angular
 - Nodejs
 - Smart contract
 - Slither
