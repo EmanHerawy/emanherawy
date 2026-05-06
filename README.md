@@ -84,9 +84,9 @@ I approach audits with emphasis on manual review, business logic analysis, and e
 <h2 align="left">🏆 Hackathon Wins (2023–2026)</h2>
 
 <!-- TODO: Add 1 more missing win -->
-- **Agentic Ethereum 2026** — The Graph: Best Use of The Graph with an AI Agent (2nd place) · [Hadi](https://github.com/EmanHerawy/hadi)
 - **EthGlobal Buenos Aires 2025** — Bounties Winner (Chainlink CRE + Zircuit + Octav) · [Wolfy](https://github.com/vm06007/metawolf)
 - **EthGlobal Taipei 2025** — Finalist + Bounties Winner (1inch 3rd place + Celo) · [EthereumFighter](https://github.com/vm06007/EthereumFighter)
+- **Agentic Ethereum 2026** — The Graph: Best Use of The Graph with an AI Agent (2nd place) · [Hadi](https://github.com/EmanHerawy/hadi)
 - **Womxn Hack 2024** — DeFi Track Winner
 - **EthGlobal Brussels 2024** — Bounties Winner
 - **EthDenver 2024** — Bounties Winner · [ZTrust](https://devfolio.co/projects/ztrust-abbb)
